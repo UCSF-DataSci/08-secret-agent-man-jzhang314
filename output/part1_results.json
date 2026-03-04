@@ -1,0 +1,75 @@
+{
+  "killer": "Larry",
+  "weapon": "Antler trophy",
+  "motive": "Financial gain from the treasure map",
+  "evidence": [
+    "Antler trophy on the mantel wiped clean of fingerprints",
+    "Scuff mark on the hardwood floor near the fireplace",
+    "Marcus's phone on the coffee table with a last text to an unknown number: 'I told you, it's mine now. Deal with it.'",
+    "Half-finished glass of whiskey with only Marcus's fingerprints",
+    "Notepad with Marcus's handwriting: 'Larry \u2013 grandfather's map \u2013 told him NO'",
+    "Damp hiking boots with fresh mud belonging to Larry",
+    "Boot prints in the mud outside",
+    "Small smear on the hallway carpet near Larry's room",
+    "Freshly used hand towel with faint brown stains in shared bathroom",
+    "Journal entry mentioning Larry asking questions about a map leading to $200K in coins"
+  ],
+  "transcript": [
+    {
+      "action": "search",
+      "detail": "Searched Living Room"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Upstairs Hallway"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Mudroom / Back Entry"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Marcus's Bedroom"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Back Porch"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Kitchen"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Why did your lipstick end up on a coffee mug in the kitchen?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: What were you doing outside after dinner if your boots are muddy?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: What do you know about the conversation between Marcus and the unknown number he"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: What can you tell us about the photos taken from 9:04pm to 11:27pm?"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I have no idea how my lipstick ended up on a coffee mug. I certainly didn't leave it there. Perhaps "
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, uh, those muddy boots? I, um, I was just taking a quick walk around the block after dinner. You "
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was outside on the back porch taking long-exposure photos of the snowfall during that time. The ca"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: I\u2019m not entirely sure about the specifics of that conversation. I did notice that Marcus seemed a bi"
+    }
+  ]
+}
